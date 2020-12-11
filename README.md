@@ -1,2 +1,2 @@
-# weight-loss-panda
-Weight loss group result analysis with Panda 
+# weight-loss-pandas
+Weight loss group result analysis with Pandas
